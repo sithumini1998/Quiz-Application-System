@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Quiz-Application-System
  fully responsive quiz application designed to test users' programming knowledge across multiple categories, such as React, JavaScript, HTML, and CSS. It offers a user-friendly interface with real-time feedback and dynamic question rendering.
-=======
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -37,5 +37,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> 69d464a (Initial commit from Create Next App)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details. 69d464a (Initial commit from Create Next App)
+
+# Quiz-Application-System
+ fully responsive quiz application designed to test users' programming knowledge across multiple categories, such as React, JavaScript, HTML, and CSS. It offers a user-friendly interface with real-time feedback and dynamic question rendering.
+6fd4c48c283ee0170941217042445eab8493a187
